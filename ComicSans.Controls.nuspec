@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd"> 
+<metadata> 
+	<id>ComicSans.Controls</id> 
+	<version>0.0.1</version> 
+	<title>ComicSans.Controls</title> 
+	<description>Controls to make your life in Xamarin Forms easier.</description> 
+	<authors>Jacob Ebey</authors> 
+	<owners>Jacob Ebey</owners> 
+		<projectUrl>https://github.com/jacob-ebey/ComicSans.Controls</projectUrl> 
+		<requireLicenseAcceptance>false</requireLicenseAcceptance> 
+		<summary> 
+			Adding data-binding to UI frameworks. 
+		</summary> 
+		<tags>xamarin, forms, xamarin forms, controls, mobile, android, droid, ios, iphone, winphone, windows phone</tags> 
+	</metadata> 
+	<files> 
+		<!-- Core --> 
+		<file src="ComicSans.Controls\bin\Release\ComicSans.Controls.dll"  target="lib\portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10\Bindable.Core.dll" /> 
+		<file src="ComicSans.Controls\bin\Release\ComicSans.Controls.xml"  target="lib\portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10\Bindable.Core.xml" /> 
+		<file src="ComicSans.Controls\bin\Release\ComicSans.Controls.pdb"  target="lib\portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10\Bindable.Core.pdb" /> 
+	</files> 
+</package> 
