@@ -16,8 +16,8 @@
 	</metadata> 
 	<files> 
 		<!-- Core --> 
-		<file src="ComicSans.Controls\bin\Release\ComicSans.Controls.dll"  target="lib\portable-win+net45+wp80+win81+wpa81+MonoAndroid10+MonoTouch10+Xamarin.iOS10\Bindable.Core.dll" /> 
-		<file src="ComicSans.Controls\bin\Release\ComicSans.Controls.xml"  target="lib\portable-win+net45+wp80+win81+wpa81+MonoAndroid10+MonoTouch10+Xamarin.iOS10\Bindable.Core.xml" /> 
-		<file src="ComicSans.Controls\bin\Release\ComicSans.Controls.pdb"  target="lib\portable-win+net45+wp80+win81+wpa81+MonoAndroid10+MonoTouch10+Xamarin.iOS10\Bindable.Core.pdb" /> 
+		<file src="ComicSans.Controls\bin\Release\ComicSans.Controls.dll"  target="lib\portable-win+net45+wp80+win81+wpa81+MonoAndroid10+MonoTouch10+Xamarin.iOS10\ComicSans.Controls.dll" /> 
+		<file src="ComicSans.Controls\bin\Release\ComicSans.Controls.xml"  target="lib\portable-win+net45+wp80+win81+wpa81+MonoAndroid10+MonoTouch10+Xamarin.iOS10\ComicSans.Controls.xml" /> 
+		<file src="ComicSans.Controls\bin\Release\ComicSans.Controls.pdb"  target="lib\portable-win+net45+wp80+win81+wpa81+MonoAndroid10+MonoTouch10+Xamarin.iOS10\ComicSans.Controls.pdb" /> 
 	</files> 
 </package> 
